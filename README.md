@@ -1,22 +1,4 @@
-<div align="center">
-  <img src="assets/logo_sharp_white.jpg" align="center" style="width: 30%; height: 30%;" />
-  <h2 style="margin-bottom: 200px;">Plan. Program. Perfect. Repetition creates impact – just like our code.</h2>
-</div>
-
 ### _<div align="center">Hi, I'm Daniel! :) Most people call me differenz or just dif. I'm a full stack dev at a big retailer in the mobile context and I also do some freelancing 🙌🏻. </div>_
-
-<p align="left">
-🎓 Recent bachelors graduate at <a href="https://www.karlsruhe.dhbw.de/startseite.html" target="_blank">DHBW</a> in Business Information Systems – Software Engineering.
-<br>
-🧠 I'm a quick learner and love to conquer new challenges.
-<br>
-💪 Proficient in both front-end and back-end, creating creative solutions for complex problems. 
-<br>
-🗣️ Interactive work and honest, direct communication are essential.
-<br>
-🏋️‍♂️ Besides programming, I love weightlifting, cooking, and spending time in nature 🍃⛰
-</p>
-
 
 ###
 
