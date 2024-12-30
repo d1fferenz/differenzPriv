@@ -3,7 +3,7 @@
   <h2 style="margin-bottom: 200px;">Plan. Program. Perfect. Repetition creates impact – just like our code.</h2>
 </div>
 
-### _<div align="center">Hi, I'm Daniel! :) Most people call me differenz or just dif. I'm a full stack dev at [HORNBACH Baumarkt AG](https://www.hornbach.de) in the [mobile context](https://apps.apple.com/de/app/hornbach/id948194412?l=en-GB) and at [Alitteration](http://alliteration.io). </div>_
+### _<div align="center">Hi, I'm Daniel! :) Most people call me differenz or just dif. I'm a full stack dev at big retailer in the [mobile context](https://apps.apple.com/de/app/hornbach/id948194412?l=en-GB) and at [Alitteration](http://alliteration.io). </div>_
 
 <p align="left">
 🎓 Recent bachelors graduate at <a href="https://www.karlsruhe.dhbw.de/startseite.html" target="_blank">DHBW</a> in Business Information Systems – Software Engineering.
