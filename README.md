@@ -1,4 +1,4 @@
-### _<div align="center">Hi, I'm Daniel! :) Most people call me differenz or just dif. I'm a full stack dev at a big retailer in the mobile context and I also do some freelancing 🙌🏻. </div>_
+### _<div align="center">Hi, I'm Daniel! :) Most people call me differenz or just dif. I'm a full stack dev at an international retailer in the mobile context and I also do some freelancing 🙌🏻. </div>_
 
 ###
 
